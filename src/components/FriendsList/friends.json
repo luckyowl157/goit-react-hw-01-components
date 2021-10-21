@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://pbs.twimg.com/media/DmuvvilUUAATj5p.jpg",
+      "name": "Vova",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://www.fortinamps.com/wp-content/uploads/2019/06/jon_northlane_fortin-1200x480.jpg",
+      "name": "Sara",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://live.staticflickr.com/570/32034259351_9cf2d2c184_b.jpg",
+      "name": "Mike",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://pbs.twimg.com/media/DmuvvilUUAATj5p.jpg",
+      "name": "Bob",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://live.staticflickr.com/570/32034259351_9cf2d2c184_b.jpg",
+      "name": "Sveta",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]

@@ -1,0 +1,20 @@
+.statistics {
+    max-width: 650px;
+    width: 100%;
+    margin: 0 auto;
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+}
+.statList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
